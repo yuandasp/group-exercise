@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "putri",
+      "email": "putri@123.com",
+      "password": "asdfji"
+    },
+    {
+      "email": "ddd@jd",
+      "password": "ddfdff",
+      "name": "ffff",
+      "id": 2
+    },
+    {
+      "email": "tes@hdy",
+      "password": "hdyfgyt",
+      "name": "testing",
+      "id": 3
+    },
+    {
+      "email": "nama1@mail.com",
+      "password": "nama1nih",
+      "name": "nama1",
+      "id": 4
+    }
+  ]
+}
